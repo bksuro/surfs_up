@@ -4,11 +4,8 @@
 
 W. Avy wants to open up a Surf and Ice Cream store in Oahu, Hawaii. This analysis is to analyze the weather data to see if Oahu is a good fit or not for this business.
 
+W. Avy is concerned about the amount of precipitation on Oahu. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
 
-Now, let's think about precipitation. W. Avy is concerned about the amount of precipitation on Oahu. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
-
-It occurs to you that he hasn't asked for an analysis of the temperature yet, so you decide to dive into temperature data.
- 
 ## Resources:
   - Data Source: hawaii.sqlite
   - Software: anaconda3, python 3.7.7, jupyter notebook, flask
