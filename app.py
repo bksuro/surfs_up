@@ -79,6 +79,8 @@ def stats(start=None, end=None):
     session.close()
     return jsonify(temps=temps)
 
+if __name__ == "__main__":
+    app.run(debug=True)
 
 #@app.route('/')
 #def hello_world():
