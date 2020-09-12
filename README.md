@@ -41,7 +41,7 @@ December:
 
 ### Differences
   - Average temperatures in June and December are 75 and 72 degs F, which indicates more people will surf in June than in December.
-  - Max temperatures in June and December are 85 and 83 degs F, which indicates there will be days in December, when icrcream sales will be high.
+  - Max temperatures in June and December are 85 and 83 degs F, which indicates there will be days in December, when icecream sales will be high.
   - Min temperatures in June and December are 64 and 56 degs F, which indicates there will be days in June, when icecream sales will go down.
 
 ### Summary
