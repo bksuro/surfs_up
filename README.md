@@ -39,6 +39,12 @@ December:
 
 !["December stats"](./Resources/challenge_december_temps.png "December stats")
 
+### Differences
+  - Average temperatures in June and December are 75 and 72 degs F, which indicates more people will surf in June than in December.
+  - Max temperatures in June and December are 85 and 83 degs F, which indicates there will be days in December, when icrcream sales will be high.
+  - Min temperatures in June and December are 64 and 56 degs F, which indicates there will be days in June, when icecream sales will go down.
+
+### Summary
 
 Based on the information we can recommend that opening surf and icecream shops in Oahu is a sound investment. With temperatures @70+ deg F, Oahu is a good place to surf and have icecreams after surfing.
 
