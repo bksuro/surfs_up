@@ -49,7 +49,7 @@ December:
 Based on the information we can recommend that opening surf and icecream shops in Oahu is a sound investment. With temperatures @70+ deg F, Oahu is a good place to surf and have icecreams after surfing.
 
 #### Additional Queries:
-  - To have a better idea about the weather, following queries would ehlp out more:
+  - To have a better idea about the weather, following queries would help out more:
     - a query to get the max, min, avg precipitations recorded by station for months of June and December.
       - select station, strftime('%m', date) date, max(prcp), min(prcp), avg(prcp) from measurement 
       - where strftime('%m', date) in ('07', '12') group by station, strftime('%m', date)
