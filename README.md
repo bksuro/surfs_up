@@ -52,8 +52,8 @@ Based on the information we can recommend that opening surf and icecream shops i
   - To have a better idea about the weather, following queries would help out more:
     - a query to get the max, min, avg precipitations recorded by station for months of June and December.
       - select station, strftime('%m', date) date, max(prcp), min(prcp), avg(prcp) from measurement 
-      - where strftime('%m', date) in ('07', '12') group by station, strftime('%m', date)
+        where strftime('%m', date) in ('07', '12') group by station, strftime('%m', date)
     - a query to get the max, min, avg temperatures recorded by station for months of June and December.
       - select station, strftime('%m', date) date, max(tobs), min(tobs), avg(tobs) from measurement 
-      - where strftime('%m', date) in ('07', '12') group by station, strftime('%m', date)
+        where strftime('%m', date) in ('07', '12') group by station, strftime('%m', date)
     
